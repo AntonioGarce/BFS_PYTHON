@@ -1,0 +1,5 @@
+4 4 A D
+A B a b
+A C a b
+B D a B
+C D a B
